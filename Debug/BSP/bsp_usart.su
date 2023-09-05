@@ -1,0 +1,7 @@
+bsp_usart.c:31:6:HAL_UART_RxCpltCallback	16	static
+bsp_usart.c:101:6:Usart1_SendByte	16	static
+bsp_usart.c:107:6:Usart1_SendString	24	static
+bsp_usart.c:120:1:__io_putchar	16	static
+bsp_usart.c:126:6:Usart3_SendByte	16	static
+bsp_usart.c:133:6:Usart3_SendString	24	static
+bsp_usart.c:144:6:u3_printf	16	static
